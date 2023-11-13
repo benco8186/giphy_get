@@ -1,7 +1,37 @@
+## [3.5.2] - 2023-10-31
+* Up-to-date ios dependencies
+
+## [3.5.1] - 2023-10-31
+* Up-to-date dependencies
+
+## [3.5.0] - 2023-08-01
+* Up-to-date dependencies
+* Allowing to override the default tab top (the handlebar)
+* Allowing to override the default tab bottom (Giphy's credits)
+* Allowing to override the search part component. In this case the logic part of the search is still made by the original component, only the UI part is overriden.
+thanks to [orevial](https://github.com/orevial)
+## [3.4.2] - 2023-07-18
+* Up-to-date dependencies
+
+## [3.4.1] - 2023-05-11
+* Turkish Added [#51](https://github.com/bazookon/giphy_get/pull/51) thanks to [mobisofts](https://github.com/mobisofts)
+
+## [3.4.0] - 2023-05-11
+* Up-to-date dependencies
+* Ready to flutter 3.10 🎉
+## [3.3.1] - 2023-04-03
+* Up-to-date dependencies
+* [Bug Fix] TabBar text color [#48](https://github.com/bazookon/giphy_get/pull/48) thanks to [sbis04](https://github.com/sbis04)
+
+## [3.3.0] - 2023-03-09
+* French Added [#46](https://github.com/bazookon/giphy_get/pull/46) thanks to  [benco8186](https://github.com/benco8186)
+* Material 3 supported [#44](https://github.com/bazookon/giphy_get/pull/44) Thanks to [hifiaz](https://github.com/hifiaz)
+* Up-to-date dependencies
+
 ## [3.2.0] - 2022-12-19
 * Search Debounce added [#30](https://github.com/bazookon/giphy_get/pull/40) thanks to [simplenotezy](https://github.com/simplenotezy)
 ## [3.1.1] - 2022-09-06
-* Update dependencies to latest
+* Up-to-date dependencies
 
 ## [3.1.0] - 2022-06-09
 * Update package and support flutter 3[#30](https://github.com/bazookon/giphy_get/pull/30) thanks to [hifiaz](https://github.com/hifiaz)
@@ -18,7 +48,7 @@
 
 
 ## [3.0.2] - 2022-02-12
-* Upgrade dependencies
+* Up-to-date dependencies
 * Automated Test
 
 ## [3.0.1] - 2022-02-02
@@ -28,7 +58,7 @@
 
 ## [3.0.0] - 2022-01-24
 * Readme updated
-* Upgrade dependencies
+* Up-to-date dependencies
 * Added new widgets
 * Fixed aspect ratio
 
@@ -39,18 +69,18 @@
 * Automatic language for search
 
 ## [3.0.0-pre.1] - 2022-01-22
-* Upgrade dependencies
+* Up-to-date dependencies
 * Added new widgets
 * Fixed aspect ratio
 
 ## [2.0.4] - 2021-12-19
-* Upgrade dependencies
+* Up-to-date dependencies
 
 
 ## [2.0.3] - 2021-08-23
 * Added gaplessPlayback parameter to network image to fix the issue with images dimming on scroll. [PR#15](https://github.com/bazospa/giphy_get/pull/15) Thanks to  [Brazol](https://github.com/Brazol)
 * Searchbar along Giphy guidelines [PR#16](https://github.com/bazospa/giphy_get/pull/16 ) Thanks to  [Brazol](https://github.com/Brazol)
-* Upgrade dependencies
+* Up-to-date dependencies
 
 ## [2.0.2] - 2021-06-10
 * Fix Null Safety Thanks to [TramPamPam](https://github.com/TramPamPam)
@@ -59,15 +89,15 @@
 * Fix Null Safety
 
 ## [2.0.0] - 2021-05-01
-* Upgrade Dependencies
+* Up-to-date dependencies
 * Fix Null Safety string in Giph class
 
 ## [2.0.0-nullsafety.3] - 2021-04-11
-* Upgrade Dependencies
+* Up-to-date dependencies
 * Fix Null Safety string
 
 ## [2.0.0-nullsafety.2] - 2021-03-24
-* Upgrade Dependencies
+* Up-to-date dependencies
 
 ## [2.0.0-nullsafety.1] - 2021-03-11
 * Null Safety Migration
@@ -76,7 +106,7 @@
 * Fix empty grid
 
 ## [1.1.0] - 2020-11-05
-* Upgrade Dependencies
+* Up-to-date dependencies
 * Added Web support
 
 ## [1.0.1] - 2020-11-05
@@ -97,7 +127,7 @@
 * Fixes the toJson method of GiphyGif which was preventing the json to be stored in Firestore
 
 ## [0.9.2] - 2020-09-23
-* Upgrade Dependencies
+* Up-to-date dependencies
 
 ## [0.9.1] - 2020-09-19
 * Publish preview
